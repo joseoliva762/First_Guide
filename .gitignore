@@ -1,0 +1,8 @@
+*.jpg
+*.png
+*.csv
+*.gif
+*.pyc
+/server/venv
+/web_scraping/venv
+_pycache_
